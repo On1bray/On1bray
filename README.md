@@ -33,9 +33,8 @@ Hola, soy Brayan, apasionado por la ciberseguridad, la defensa digital y la prot
 
 ## 🎯 Objetivos Profesionales
 
-- 🏹 Convertirme en especialista en ciberseguridad ofensiva  
-- 🌐 Participar en proyectos de seguridad a nivel global  
-- 📚 Obtener certificaciones como CEH, CompTIA Security+, OSCP  
+- 🏹 Convertirme en especialista en ciberseguridad   
+- 🌐 Participar en proyectos de seguridad a nivel global   
 - 💻 Desarrollar herramientas propias de análisis y detección  
 
 ---
